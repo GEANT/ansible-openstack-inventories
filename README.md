@@ -5,5 +5,5 @@ It has to be used with the "ansible-openstack" repository to complete the "Ansib
 
 To get the Playbook working it is needed to run the commands below and change what you need under 'inventories' directory:
 
-   * ```cd /opt/ ; git clone https://github.com/malavolti/ansible-openstack.git```
-   * ```cd /opt/ansible-openstack ; git clone https://github.com/malavolti/ansible-openstack-inventories inventories```
+   * ```cd /opt/ ; git clone https://github.com/[malavolti|ConsortiumGARR|GEANT]/ansible-openstack.git```
+   * ```cd /opt/ansible-openstack ; git clone https://github.com/[malavolti|ConsortiumGARR|GEANT]/ansible-openstack-inventories inventories```
